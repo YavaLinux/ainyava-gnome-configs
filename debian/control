@@ -1,0 +1,8 @@
+Source: ainyava-gnome-configs
+Maintainer: Hamed Mahmoudkhnai <ainyava@gmail.com>
+Standards-Version: 0.0.1
+Build-Depends: debhelper-compat (=10)
+
+Package: ainyava-gnome-configs
+Architecture: all
+Description: Ainyava Gnome configurations
